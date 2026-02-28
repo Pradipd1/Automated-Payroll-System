@@ -54,3 +54,23 @@ Developed by **Pradip Dhakal**
 - Download Salary Slip PDF
 - Employee Edit/Delete Management
 - Dark Mode UI
+
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### 📋 Attendance Records
+![Attendance](screenshots/attendance.png)
+
+### 💰 Generate Payroll
+![Generate Payroll](screenshots/generate-payroll.png)
+
+### 📈 View Payroll
+![View Payroll](screenshots/view-payroll.png)
+
+### 👤 Employee Dashboard
+![Employee Dashboard](screenshots/employee-dashboard.png)
