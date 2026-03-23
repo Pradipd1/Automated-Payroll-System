@@ -20,7 +20,7 @@ A complete web-based Payroll & Attendance Management System built using PHP, MyS
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 - PHP
 - MySQL
